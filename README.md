@@ -1,16 +1,11 @@
-Các bước cần làm:
+Setup Guide
 
-- Dùng npm:
-1. Chạy câu lệnh:  npm install --omit=dev
+1. Clone https://github.com/duclong1311/bookee-backend.git
 
-2. Để chạy project, tại root: npm start
+2. npm install
 
-=============
-
-- Dùng yarn:
-1. chạy câu lệnh: yarn
-2. chạy project: yarn start
+3. npm start
 
 =============
 
-Lưu ý: với MacOS/Linux, nếu không thấy file .env => google cách hiện , or mở = vscode :v
+
